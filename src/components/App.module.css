@@ -1,0 +1,23 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: pink;
+}
+.input{
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    padding: 0 20px ;
+    border-radius: 24px;
+}
+.button {
+    width: 200px;
+    height: 40px;
+    background-color: pink;
+    opacity: 0.7;
+    border-radius: 24px;
+}
